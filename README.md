@@ -1,6 +1,4 @@
-## Hi there 
-
-<!--
+## Hi there\<!--
 **piranishayaan-alt/piranishayaan-alt** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 Nice  — an AI-themed project deserves a strong README. Here’s a clean, professional README tailored for your AI website (similar style to your screenshot):
 
