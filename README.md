@@ -1,13 +1,6 @@
 ## Hi there\<!--
-**piranishayaan-alt/piranishayaan-alt** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
-Nice  — an AI-themed project deserves a strong README. Here’s a clean, professional README tailored for your AI website (similar style to your screenshot):
-
- Your AI Project README
-
-:::writing{variant=“standard” id=“63829”}
-
+**piranishayaan-alt/piranishayaan-alt** is a  _special_  repository because its `README.md` 
 AI Web Experience
-
 A modern, AI-focused web application designed to showcase intelligent features, sleek design, and an interactive user experience using pure HTML and CSS.
 
  Overview
